@@ -1,0 +1,172 @@
+body {
+    background: orange;
+} 
+#total {
+    background: orange;
+    margin-left: 15%;
+    margin-right: 15%;
+
+} 
+*{
+    border:0;
+    margin:0;
+    padding:0;
+}
+header, #objetivos, #informacion, #tematicas {
+    background: white;
+    width: 1000px;
+    height: 220px;
+    text-align: center;
+}
+
+#objetivos {
+    background: blue;
+    height: 205px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    width: 984px;
+}
+#objetivos #objetivo1 {
+    background: red;
+    width: 325px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+#objetivos #objetivo2 {
+    background: green;
+    width: 325px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+#objetivos #objetivo3 {
+    background: grey;
+    width: 325px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+#informacion {
+    background: red;
+    height: 400px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    width: 984px;
+}
+#informacion #intro {
+    background: grey;
+    width: 980px;
+    height: 390px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#tematicas {
+    background: yellow;
+    height: 220px;
+    padding-left: 12px;
+    padding-right: 8px;
+    padding-top: 5px;
+    width: 984px;
+}
+#tematicas #tema {
+    background: blue;
+    width: 970px;
+    height: 205px;
+    display: inline-block;
+    vertical-align: top;
+}
+footer {
+    text-align: center;
+    width: 970px;
+    height: 205px;
+}
+h1 {
+    padding-left: 12px;
+    padding-right: 8px;
+    padding-top: 5px;
+}
+#menuu{
+    padding: 7px;
+}
+#menuu #menu1 {
+    background:white;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+#menuu #menu2 {
+    background: white;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+#menuu #menu3 {
+    background:white;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+#menuu #menu4 {
+    background: white;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+#menuu #menu5 {
+    background: white;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+#indica{
+    padding: 7px;
+}
+#indica #indica1 {
+    background:blue;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+#indica #indica2 {
+    background:blue;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+#indica #indica3 {
+    background:blue;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+#indica #indica4 {
+    background:blue;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+#indica #indica5 {
+    background:blue;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#indica {
+    padding: 10px;
+}

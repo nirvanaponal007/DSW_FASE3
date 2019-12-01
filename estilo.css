@@ -1,8 +1,11 @@
 body {
-    background: orange;
+    background: #F47920;
+    line-height: 120%;
+    font: 100% Angsana New
+
 } 
 #total {
-    background: orange;
+    background: #F47920;
     margin-left: 15%;
     margin-right: 15%;
 
@@ -20,7 +23,7 @@ header, #objetivos, #informacion, #tematicas {
 }
 
 #objetivos {
-    background: blue;
+    background: #F0B429;
     height: 205px;
     padding-left: 8px;
     padding-right: 8px;
@@ -28,28 +31,28 @@ header, #objetivos, #informacion, #tematicas {
     width: 984px;
 }
 #objetivos #objetivo1 {
-    background: red;
+    background: #005883;
     width: 325px;
     height: 200px;
     display: inline-block;
     vertical-align: top;
 }
 #objetivos #objetivo2 {
-    background: green;
+    background: #005883;
     width: 325px;
     height: 200px;
     display: inline-block;
     vertical-align: top;
 }
 #objetivos #objetivo3 {
-    background: grey;
+    background: #005883;
     width: 325px;
     height: 200px;
     display: inline-block;
     vertical-align: top;
 }
 #informacion {
-    background: red;
+    background:#F0B429;
     height: 400px;
     padding-left: 8px;
     padding-right: 8px;
@@ -57,25 +60,46 @@ header, #objetivos, #informacion, #tematicas {
     width: 984px;
 }
 #informacion #intro {
-    background: grey;
+    background:#808080;
     width: 980px;
     height: 390px;
     display: inline-block;
     vertical-align: top;
+    text-align: left;
+    
 }
-
-#tematicas {
-    background: yellow;
-    height: 220px;
-    padding-left: 12px;
+#lecturas {
+    background:#F0B429;
+    height: 800px;
+    padding-left: 8px;
     padding-right: 8px;
     padding-top: 5px;
     width: 984px;
 }
+
+
+
+#lecturas #lectura3 {
+    background:#808080;
+    width: 980px;
+    height: 390px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    
+}
+#tematicas {
+    background: black;
+    height: 230px;
+    padding-left: 12px;
+    padding-right: 8px;
+    padding-top: 5px;
+    width: 964px;
+}
 #tematicas #tema {
-    background: blue;
+    background: black;
     width: 970px;
-    height: 205px;
+    height: 209px;
     display: inline-block;
     vertical-align: top;
 }
@@ -83,6 +107,7 @@ footer {
     text-align: center;
     width: 970px;
     height: 205px;
+    
 }
 h1 {
     padding-left: 12px;
@@ -132,35 +157,35 @@ h1 {
     padding: 7px;
 }
 #indica #indica1 {
-    background:blue;
+    background:#F0B429;
     width: 100px;
     height: 50px;
     display: inline-block;
     vertical-align: top;
 }
 #indica #indica2 {
-    background:blue;
+    background:#F0B429;
     width: 100px;
     height: 50px;
     display: inline-block;
     vertical-align: top;
 }
 #indica #indica3 {
-    background:blue;
+    background:#F0B429;
     width: 100px;
     height: 50px;
     display: inline-block;
     vertical-align: top;
 }
 #indica #indica4 {
-    background:blue;
+    background:#F0B429;
     width: 100px;
     height: 50px;
     display: inline-block;
     vertical-align: top;
 }
 #indica #indica5 {
-    background:blue;
+    background:#F0B429;
     width: 100px;
     height: 50px;
     display: inline-block;
@@ -170,3 +195,27 @@ h1 {
 #indica {
     padding: 10px;
 }
+
+#lectura {
+    background: #F0B429;
+    height: 732px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    width: 984px;
+}
+#lectura #lectura1 {
+    background: #005883;
+    width: 490px;
+    height: 600px;
+    display: inline-block;
+    vertical-align: top;
+}
+#lectura #lectura2 {
+    background: #005883;
+    width: 490px;
+    height: 600px;
+    display: inline-block;
+    vertical-align: top;
+}
+
